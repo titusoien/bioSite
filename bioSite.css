@@ -45,7 +45,7 @@ footer {
 
 #image-gallery img {
   max-width: 50%;
-  max-height: 150px;
+  max-height: 50px;
   height: auto;
   object-fit: contain;
   margin-bottom: 10px;
