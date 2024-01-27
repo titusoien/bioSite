@@ -1,5 +1,5 @@
 header {
-  background-color: #5CS044;
+  background-color: #5cs044;
   color: white;
   padding: 20px;
   text-align: center;
@@ -11,8 +11,8 @@ h1 {
 
 #navbar {
   overflow: hidden;
-  background-color: #332F2C;
-  border-bottom: #C28242;
+  background-color: #332f2c;
+  border-bottom: #c28242;
 }
 
 #navbar a {
@@ -25,7 +25,7 @@ h1 {
 }
 
 #navbar a: hover {
-  background-color: #F58C22;
+  background-color: #f58c22;
   color: black;
 }
 
