@@ -29,3 +29,8 @@ h1 {
   color: black;
 }
 
+#container {
+  margin-top: 2%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 10px;
