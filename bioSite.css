@@ -12,7 +12,7 @@ h1 {
 #navbar {
   overflow: hidden;
   background-color: #332f2c;
-  border-bottom: #c28242;
+  border-bottom: 15px solid #c28242;
 }
 
 #navbar a {
