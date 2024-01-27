@@ -29,6 +29,13 @@ h1 {
   color: black;
 }
 
+footer {
+  background-color: #5c5044;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
 #container {
   margin-top: 2%;
   margin-left: 5%;
