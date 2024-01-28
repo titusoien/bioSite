@@ -52,11 +52,11 @@ footer {
   margin-left: auto;
   margin-right: auto;
 }
-hobbies-img {
+.hobbies-img {
   width: 50%;
   height: auto;
 }
-goals-img {
+.goals-img {
   width: 50%;
   height: auto;
 }
