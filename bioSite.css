@@ -46,9 +46,11 @@ footer {
 }
 
 portrait-img {
-  width: 200px;
-  height: 300px;
-
+  width: 150px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 hobbies-img {
   width: 50%;
