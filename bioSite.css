@@ -44,9 +44,17 @@ footer {
   padding: 10px;
 }
 
-#image-gallery img {
+portrait-img {
   width: 200px;
   height: 300px;
+}
+hobbies-img {
+  width: 50%;
+  height: auto;
+}
+goals-img {
+  width: 50%;
+  height: auto;
 }
 
 #bio {
