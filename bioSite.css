@@ -47,3 +47,10 @@ footer {
   width: 150px;
   height: 300px;
 }
+
+#bio {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
