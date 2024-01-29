@@ -79,7 +79,7 @@ h2 {
     font-size: 18px; 
     animation: fadeInOut 3s infinite;
     position: fixed;
-    bottom: 8px;
+    bottom: 2px;
 }
 
 /* Keyframes for fade in and out animation */
