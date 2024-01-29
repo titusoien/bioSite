@@ -40,6 +40,7 @@ footer {
   height: 15px;
 }
 footer p {
+  position: relative;
   bottom: 10px;
 }
 .portrait-img img {
