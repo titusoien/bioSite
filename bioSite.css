@@ -77,7 +77,7 @@ h2 {
     color: #f58c22;
     font-size: 18px; 
     animation: fadeInOut 3s infinite;
-    position: relative;
+    position: fixed;
     bottom: 18px;
 }
 
