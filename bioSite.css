@@ -67,6 +67,7 @@ footer p {
   justify-content: center;
   align-items: center;
   margin-top: 20px;
+  margin-left: auto;
 }
 .goals-img img:last-child {
   margin-right: 0px;
