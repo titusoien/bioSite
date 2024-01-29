@@ -86,3 +86,6 @@ h2 {
     0%, 100% { opacity: 0; }
     50% { opacity: 1; }
 }
+body {
+    margin-bottom: 15px; /* Adjust this value to the height of your footer */
+}
