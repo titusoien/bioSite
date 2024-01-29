@@ -74,3 +74,16 @@ footer p {
 h2 {
   text-align: center;
 }
+.scroll-prompt {
+    text-align: center;
+    color: #f58c22;
+    font-size: 18px; 
+    padding: 10px 0; 
+    animation: fadeInOut 2s infinite;
+}
+
+/* Keyframes for fade in and out animation */
+@keyframes fadeInOut {
+    0%, 100% { opacity: 0; }
+    50% { opacity: 1; }
+}
