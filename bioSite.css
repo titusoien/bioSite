@@ -41,7 +41,7 @@ footer {
 }
 footer p {
   position: relative;
- 
+  margin-top: -10px;
   align-items: center;
 }
 .portrait-img img {
