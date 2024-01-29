@@ -55,15 +55,18 @@ footer {
   align-items: center;
 }
 .goals-img img{
-  width: 25%;
+  width: 40%;
   height: auto;
-  margin-right: 20px;
+  margin-right: 10px;
 }
 .goals-img {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
   margin-top: 20px;
+}
+.goals-img img:last-child {
+  margin-right: 0;
 }
 h2 {
   text-align: center;
