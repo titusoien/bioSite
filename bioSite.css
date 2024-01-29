@@ -57,10 +57,13 @@ footer {
 .goals-img img{
   width: 25%;
   height: auto;
+  margin-right: 20px;
+}
+.goals-img {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  margin-bottom: 20px;
+  margin-top: 20px;
 }
 h2 {
   text-align: center;
