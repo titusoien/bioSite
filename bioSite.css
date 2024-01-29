@@ -87,7 +87,7 @@ h2 {
     50% { opacity: 1; }
 }
 body {
-    margin-bottom: 18px; /* Adjust this value to the height of your footer */
+    margin-bottom: 18px; 
 }
 #container {
   padding-bottom: 100px;
