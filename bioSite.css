@@ -61,8 +61,8 @@ footer p {
 }
 .hobbies {
   padding-left: 30%;
-  margin-top: 30px;
-  align-self: start;
+  margin-top: 0;
+  align-self: flex-start;
 }
   
 .goals-img img {
